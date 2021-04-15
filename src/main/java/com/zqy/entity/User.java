@@ -2,7 +2,7 @@ package com.zqy.entity;
 
 /**
  * @ClassName: User
- * @Description TODO
+ * @Description 实体类
  * @Author: zqy
  * @Date: 2021/4/14 16:21
  * @Version 1.0
